@@ -2,18 +2,18 @@
 Built with Next.js, Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 
 ## ⚙️ Tech Stack
-Next.js
-TypeScript
-Appwrite
-Plaid
-Dwolla
-React Hook Form
-Zod
-TailwindCSS
-Chart.js
-ShadCN
+- Next.js 
+- TypeScript
+- Appwrite
+- Plaid
+- Dwolla
+- React Hook Form
+- Zod
+- TailwindCSS
+- Chart.js
+- ShadCN
 
-##🔋 Features
+## 🔋 Features
 👉 Authentication: An ultra-secure SSR authentication with proper validations and authorization
 
 👉 Connect Banks: Integrates with Plaid for multiple bank account linking
